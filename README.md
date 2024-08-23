@@ -1,1 +1,1 @@
-# simon
+The Simon game is a popular electronic game that helps one by making use of one's short term memory skills. The game is one of the major intermediary projects of the web development course delivered by Dr. Angela Yu of the App Brewery, London. 
